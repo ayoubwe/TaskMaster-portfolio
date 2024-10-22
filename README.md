@@ -38,8 +38,8 @@ TaskMaster is a task management application designed to help users stay organize
    ```
 
 ## Usage
-   . Open your browser and go to http://localhost:4200
-   . Register or log in to start managing your tasks
+   - Open your browser and go to http://localhost:4200
+   - Register or log in to start managing your tasks
 
 
    
