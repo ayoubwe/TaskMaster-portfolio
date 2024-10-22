@@ -19,7 +19,7 @@ TaskMaster is a task management application designed to help users stay organize
 2.Install Frontend Dependencies:
    ```bash
    cd ../TaskMasterfront
-   npm install --legacy-peer-deps
+   npm install
    ```
 3.Start MongoDB Server:
    Ensure MongoDB is running on your local machine
