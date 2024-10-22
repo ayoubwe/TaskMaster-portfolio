@@ -13,7 +13,7 @@ TaskMaster is a task management application designed to help users stay organize
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/taskmaster.git
+   https://github.com/ayoubwe/TaskMaster-portfolio.git
    ```
 
 2.Install Frontend Dependencies:
