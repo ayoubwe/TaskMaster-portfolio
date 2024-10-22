@@ -2,6 +2,8 @@
 
 TaskMaster is a task management application designed to help users stay organized by creating, categorizing, prioritizing, and tracking tasks efficiently.
 
+![Project Screenshot](image.png)
+
 ## Table of Contents
 
 - [Installation](#installation)
